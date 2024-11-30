@@ -1,0 +1,9 @@
+# Ignore system files and directories
+AppData/
+*.DAT
+*.LOG1
+*.LOG2
+*.ini
+*.viminfo
+.bash_history
+.gitconfig
