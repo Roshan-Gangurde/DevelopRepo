@@ -1,5 +1,14 @@
 # Ignore system files and directories
 AppData/
+cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
 *.DAT
 *.LOG1
 *.LOG2
@@ -7,3 +16,6 @@ AppData/
 *.viminfo
 .bash_history
 .gitconfig
+NTUSER.*
+*.regtrans-ms
+*.blf
